@@ -1,0 +1,21 @@
+----- Receipt -----
+ITEMS    QTY      PRICE
+Cakes:
+- LAVA CAKE: 2 x $5 = $10
+Drinks:
+- GREEN TEA: 1 x $2 = $2
+- BLACK COFFEE: 2 x $2 = $4
+------------------------------
+Subtotal: $16
+Tax (7%): $1.12
+Total: $17.12
+------------------------------
+Discount (10%): $1.712
+Discounted Total: $15.408
+------------------------------
+Customer Details:
+Name: MOIN
+Address: GGVBN
+Phone: 5567
+------------------------------
+
